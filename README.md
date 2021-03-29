@@ -2,6 +2,7 @@
 
 Please use 'python' as the root folder name having all the required packages. 
 
+```bash 
 .(python folder)
 ├── ./bin
 │   ├── ./bin/Activate.ps1
@@ -21,3 +22,4 @@ Please use 'python' as the root folder name having all the required packages.
 │   └── ./lib/python3.8
 │       └── ./lib/python3.8/site-packages
 └── ./pyvenv.cfg
+```
